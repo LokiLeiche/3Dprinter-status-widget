@@ -7,8 +7,8 @@ Your printer needs to run Klipper for this to work!
 ## Installation
 Run these commands:<br>
 ```bash
-mkdir -p ~/.local/share/plasmoids/com.lokiscripts.printers
-git clone https://github.com/lokileiche/3Dprinter-status-widget.git ~/.local/share/plasmouds/com.lokiscripts.printers/.
+mkdir -p ~/.local/share/plasma/plasmoids/com.lokiscripts.printers
+git clone https://github.com/lokileiche/3Dprinter-status-widget.git ~/.local/share/plasma/plasmoids/com.lokiscripts.printers/
 ```
 
 Now re-log or reboot to reload your desktop environment.<br>
