@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "3D-Printer Status",
+        "Description": "A widget that shows the status of syour 3D-printers running Klipper",
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "com.lokiscripts.printers",
+        "Version": "1.0", "Category": "Environment",
+        "Authors": [
+            { "Name": "LokiLeiche" }
+        ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

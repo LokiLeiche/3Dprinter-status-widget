@@ -1,0 +1,27 @@
+{
+    "result": {
+        "eventtime":62053.772185255,
+        "status": {
+            "display_status": {
+                "progress":0.95,
+                "message":"Re-enabling crash detection"
+            },
+            "print_stats": {
+                "filename":"onetwotest_PLA_0.2_1h21m.gcode",
+                "total_duration":11610.302656619002,
+                "print_duration":11286.924384007005,
+                "filament_used":7541.740890003751,
+                "state":"printing",
+                "message":"",
+                "info": {
+                    "total_layer":null,
+                    "current_layer":null
+                }
+            },
+            "webhooks": {
+                "state":"ready",
+                "state_message":"Printer is ready"
+            }
+        }
+    }
+}
